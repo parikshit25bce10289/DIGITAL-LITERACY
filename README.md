@@ -41,9 +41,6 @@ The project is organised into five distinct tasks, each addressing a crucial asp
 ○ Skill development  
 ○ Networking  
 ○ Career growth
- 
-🔗 GitHub: https://github.com/Manvik2007
- 
 
  
 💻 Task 3: Coding & Collaboration Platforms
